@@ -134,9 +134,4 @@ END
 
 ---
 
-# 4. Git Commands
 
-bash
-git add .
-git commit -m "Complete Tutorial 2 Movie Theater Admission Activity"
-git push origin main
