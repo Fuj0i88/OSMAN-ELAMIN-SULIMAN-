@@ -1,0 +1,12 @@
+WEEK 7 DOCUMENTATION
+
+Name: fuji
+Student ID: 202501010741
+
+Changes:
+ Fixed the bug.
+ Added input validation.
+ Created test cases.
+
+Result:
+The program works successfully.
